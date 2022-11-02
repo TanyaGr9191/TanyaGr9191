@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanya Grudinkina</h1>
-<h3 align="center">I’m currently looking for my first opportunity to work in web development.</h3>
+<h3 align="center">I’m a Full-Stack / Frontend Web Developer </h3>
+
+- 🌴 I’m currently looking for my first opportunity to work in web development.
 
 - 🚀 I'm actively improving my React skills and learning new things.
 
