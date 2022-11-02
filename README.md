@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanya Grudinkina</h1>
 <h3 align="center">I’m currently looking for my first opportunity to work in web development.</h3>
 
-- 🌟 I'm actively improving my React abilities and learning new things.
+- 🌟 I'm actively improving my React skills and learning new things.
 
 - 🐝 I recently built a a WIX-like application for creating modern and responsive websites, **check it out!** [Weebo](https://weebo-proj.onrender.com/)
 
