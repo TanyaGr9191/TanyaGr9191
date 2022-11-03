@@ -9,7 +9,7 @@
 
 - 🍉 How to reach me **tania91.gr@gmail.com**
 
-- 🌷 Fun fact: I love reading 📖 ,drawing 🎨 and singing 🎵.
+- 🌷 Fun fact: I love reading📖, drawing🎨 and singing🎵.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
